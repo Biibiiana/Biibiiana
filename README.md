@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Biibiiana
-- 👀 I’m interested in programming, editorials, books and travel.
-- 🌱 I’m currently learning programing.
-- 📫 How to reach me ...
+Graduada de Información y Documentación, con una doble especialización en Gestión de la Documentación en Empresas y Gestión de la Información en la Web, adquiriendo conocimientos básicos sobre creación de páginas web, posicionamiento y bases de datos; actualmente realizando el Grado Superior de Desarrollo de Aplicaciones Web para aumentar conocimientos sobre la programación y la seguridad en la red. Motivada por trabajar en programación para colaborar en proyectos, la creación de aplicaciones y programas; y aprender y conocer más sobre la rama de ciberseguridad.
 
-<!---
-Biibiiana/Biibiiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Graduate in Information and Documentation, with a double specialisation in Documentation Management in Companies and Information Management on the Web, acquiring basic knowledge about the creation of web pages, positioning and databases; currently doing a Higher Degree in Web Applications Development to increase my knowledge about programming and security on the web. Motivated to work in programming to collaborate in projects, creating applications and programs; and to learn and know more about the cybersecurity branch.
